@@ -1,3 +1,4 @@
+package Lista1;
 class Pessoa{
 
     private String nome;
